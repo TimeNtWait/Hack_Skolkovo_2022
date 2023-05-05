@@ -5,8 +5,9 @@
 
 https://codenrock.com/contests/skolkovo-hack-2022#/
 ***
-
 # Автоматизация подбора кандидата на вакансию
+
+[Презентация проекта](https://drive.google.com/file/d/1BbWq7h6eAeNuqCMScM4qQqBiooo32B0x/view?usp=sharing)
 
 ## Задача: 
 Определить вероятность насколько кандидаты подходят к вакансии.
